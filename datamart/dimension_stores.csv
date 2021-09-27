@@ -1,0 +1,4 @@
+store_id;store_name;store_state;store_adress;delivery_name
+1;Santa Cruz Bikes;CA;3700 Portola Drive, Santa Cruz, CA 95060;UPS
+2;Baldwin Bikes;NY;4200 Chestnut Lane, Baldwin, NY 11432;UPS
+3;Rowlett Bikes;TX;8000 Fairway Avenue, Rowlett, TX 75088;UPS

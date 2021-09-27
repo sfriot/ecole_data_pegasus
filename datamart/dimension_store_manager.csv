@@ -1,0 +1,4 @@
+staff_id;staff_name;store_id;staff_role;manager_id
+4;Virgie Wiggins;1;store_manager;1
+5;Jannette David;2;store_manager;1
+10;Bernardine Houston;3;store_manager;1
